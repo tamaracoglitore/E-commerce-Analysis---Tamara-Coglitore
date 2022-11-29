@@ -3,7 +3,7 @@
 Assessment test for Business Intelligence Analyst Role in Perqara.
 The purpose of this data analysis is to optimize business by analyzing customer behaviours and ratings, and make continuous improvement based on the insight gained.
 
-**Full analysis on jupyter notebook**.
+**Full analysis on jupyter notebook (E-commerce Analysis - Tamara Coglitore)**.
 
 Conclusion & Recommendation from the analysis: 
 1. Promotions can be made by knowing which day does the product category have the highest order or preference. Computer accessories and sport leisure are best for the start of the weekdays, housewares on Tuesday, health beauty and furniture decor by the end of weekdays, bed bath table and more housewares & furniture decor on the weekend
